@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../AgentIA_KeyUsers ERP/Agent UI_UX/Simulation_UX_UI_GOT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Simulation_UX_UI_GOT"
+	}
+}
